@@ -10,6 +10,12 @@ A Counter Strike Global Offensive mod for Xash3D / CSMOE by ChrystaL.
 •CSGO style UI,VGUI and Panel
 
 •Running on CSMOE Launcher
+
+![alt text](https://cdn.discordapp.com/attachments/823155241976594442/981875353029074944/Screenshot_20220530_154826.jpg)
+
+![alt text](https://cdn.discordapp.com/attachments/823155241976594442/981875352144076800/Screenshot_20220530_165658.jpg)
+
+![alt text](https://cdn.discordapp.com/attachments/823155241976594442/981875351535898674/Screenshot_20220602_182450.jpg)
 # Notes
 •There are some bugs on the game like incorrect player animation and usp and m4a1 draw animation
 
@@ -45,6 +51,10 @@ https://drive.google.com/file/d/1Eg0Yx1yC9EGmdgBF6fPac2bOijwt47K4/view?usp=drive
 9 - Karambit
 
 10 - Butterfly
+
+#Changing Knifes
+You can found it on the create game main menu
+![alt text](https://cdn.discordapp.com/attachments/932435896798674954/981876392989950003/Screenshot_20220602_190543.JPG)
 
 # Credits
 • The CSMOE team
