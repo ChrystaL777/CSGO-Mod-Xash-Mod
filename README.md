@@ -15,7 +15,7 @@ A Counter Strike Global Offensive mod for Xash3D / CSMOE by ChrystaL.
 
 ![alt text](https://cdn.discordapp.com/attachments/823155241976594442/981875352144076800/Screenshot_20220530_165658.jpg)
 
-![alt text](https://cdn.discordapp.com/attachments/823155241976594442/981875351535898674/Screenshot_20220602_182450.jpg)
+![alt text](https://cdn.discordapp.com/attachments/932435896798674954/981878985933869056/Screenshot_20220602_191603.jpg)
 # Notes
 •There are some bugs on the game like incorrect player animation and usp and m4a1 draw animation
 
